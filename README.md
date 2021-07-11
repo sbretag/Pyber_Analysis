@@ -11,7 +11,7 @@ V. Isualize, the CEO and co-founder of Pyber, has given us a brand new assignmen
 ## Resources
 - [Ride_Data Source](https://github.com/sbretag/Pyber_Analysis/blob/main/resources/ride_data.csv)
 - [City Data Source](https://github.com/sbretag/Pyber_Analysis/blob/main/resources/city_data.csv)
-- [Code](https://github.com/sbretag/Pyber_Analysis/blob/main/PyBer_Challenge.ipynb)
+- [Pyber Analysis Code](https://github.com/sbretag/Pyber_Analysis/blob/main/PyBer_Challenge.ipynb)
 - Software: Jupyter Lab, Python 3.8.8
 - Data Libraries: Pandas & Matplotlib
 

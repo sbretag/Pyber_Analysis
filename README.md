@@ -2,18 +2,18 @@
 
 ## Overview of Pyber Analysis:
 
-V. Isualize, the CEO and co-founder of Pyber has requested the following analysis.
+V. Isualize, the CEO and co-founder of Pyber, has given us a brand new assignment.  The following has been requested.
 
-1. Replace reading and math scores for 9th graders at Thomas High School with NaN
-2. Repeat the school analysis excluding Thomas High School reading 9th grade reading and math scores
-3. Provide a written summary on the impacts of excluding the scores in the analysis versus the original analysis
+1. Create a summary data frame of Pyber stats by city type
+2. Create a multi-line graph showing total weekly fares by city type
+3. Provide a written summary on hot the data differs by city type and how analysis can aid decision-makers at Pyber
 
 ## Resources
-- [School Data Source](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/schools_complete.csv)
-- [Studen Data Source](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/students_complete.csv)
-- [Original Code](https://github.com/sbretag/School_District_Analysis/blob/main/PyCitySchools_Original.ipynb)
-- [New Code](https://github.com/sbretag/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+- [Ride_Data Source](https://github.com/sbretag/Pyber_Analysis/blob/main/resources/ride_data.csv)
+- [City Data Source](https://github.com/sbretag/Pyber_Analysis/blob/main/resources/city_data.csv)
+- [Code](https://github.com/sbretag/Pyber_Analysis/blob/main/PyBer_Challenge.ipynb)
 - Software: Jupyter Lab, Python 3.8.8
+- Data Libraries: Pandas & Matplotlib
 
 ## Results
 

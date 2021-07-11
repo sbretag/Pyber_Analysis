@@ -17,7 +17,11 @@ V. Isualize, the CEO and co-founder of Pyber, has given us a brand new assignmen
 
 ## Results
 
-### Impact on District Summary
+### Summary by City Type
 
-#### Original District Summary
-![](https://github.com/sbretag/School_District_Analysis/blob/main/Resources/Original_District_Summary.png)
+![](https://github.com/sbretag/Pyber_Analysis/blob/main/Analysis/pyber_summary_by_citytype.png)
+
+
+### Fares by Week & City Type
+
+![](https://github.com/sbretag/Pyber_Analysis/blob/main/Analysis/Pyber_fare_summary.png)

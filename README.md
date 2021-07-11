@@ -2,7 +2,7 @@
 
 ## Overview of Pyber Analysis:
 
-A school board and Maria have asked us to redo analysis on school and student performance due to evidence of academic dishonesty regarding reading and math scores for 9th graders at Thomas High School.  The following tasks and analysis have been requested.
+V. Isualize, the CEO and co-founder of Pyber has requested the following analysis.
 
 1. Replace reading and math scores for 9th graders at Thomas High School with NaN
 2. Repeat the school analysis excluding Thomas High School reading 9th grade reading and math scores

@@ -20,8 +20,26 @@ V. Isualize, the CEO and co-founder of Pyber, has given us a brand new assignmen
 ### Summary by City Type
 
 ![](https://github.com/sbretag/Pyber_Analysis/blob/main/Analysis/pyber_summary_by_citytype.png)
+- Rural cities have a siginificantly less amount of rides and drivers than the other two city types resulting in lowering overall fare $ however on a per ride or per driver basis, they have significantly higher amounts at $34.62 and $55.49 respectively.  Assuming rates per mile are charged equally amongst the city types, a reasonable explanation is that drivers are going longer didstances for each fare due to being rural.  Futher testing would need to be performed on miles driven to confirm.
+- Suburban cities have a higher amount of rides and drivers than rural, however they are less than urban city types.  Total fares, avg fare per ride, and avg fare per driver are also lower than rural city type but higher than urban type cities.
+- Urban cities have a significantly higher amount of rides and drivers than the other two city types resulting in a higher amount of total fares.  On the flip side, avg fare per ride and driver are the lowest amongst the three city types.  It's also important to point out that total drivers exceed total rides which suggests some drivers are not providing any rides at all.
+
 
 
 ### Fares by Week & City Type
 
 ![](https://github.com/sbretag/Pyber_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
+
+- Urban and suburban city types see an increase in fares in early January while rural city types see decrease.  This could be potentially related to weather however further analysis would have to be done to confirm.
+- All three city types see an increase in fares from the 3rd to 4th week in February.
+- Suburban city types see a large increase in fares from the 2nd week in april though the balance of month while rural and urban city types see a slightly decline over the same time frame.
+
+
+## Recommendations
+
+- Reviewing the results of the analysis, the following three recommendations will be proposed to executives of Pyber
+  1. Based on the summary statistics by city type, urban type cities have two many drivers per rides.  The amount of drivers should be reduced by atleast 1,000 which would provide the opportunity for multiple rides per driver which will result in improved economies of scale.
+  2. Increase advertising spend in rural cities to help increase market share to take advantage of the most profitable rides.
+  3. To understand driver availability vs passenger demand, a deeper analysis on dropped ride requests, miles driven per trip, and drivers on the road per day should be performed.
+
+

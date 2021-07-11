@@ -21,6 +21,9 @@ V. Isualize, the CEO and co-founder of Pyber, has given us a brand new assignmen
 
 ![](https://github.com/sbretag/Pyber_Analysis/blob/main/Analysis/pyber_summary_by_citytype.png)
 
+- Rural cities have a siginificantly less amount of rides than the other two city types resulting in lowering overall fare $ however on a per ride or per driver basis, they have significantly higher amounts at $34.62 and $55.49 respectively.
+- 
+
 
 ### Fares by Week & City Type
 

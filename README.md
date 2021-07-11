@@ -35,3 +35,11 @@ V. Isualize, the CEO and co-founder of Pyber, has given us a brand new assignmen
 - Suburban city types see a large increase in fares from the 2nd week in april though the balance of month while rural and urban city types see a slightly decline over the same time frame.
 
 
+## Recommendations
+
+- Reviewing the results of the analysis, the following three recommendations will be proposed to executives of Pyber
+  1. Based on the summary statistics by city type, urban type cities have two many drivers per rides.  The amount of drivers should be reduced by atleast 1,000 which would provide the opportunity for multiple rides per driver which will result in improved economies of scale.
+  2. Increase advertising spend in rural cities to help increase market share to take advantage of the most profitable rides.
+  3. To understand driver availability vs passenger demand, a deeper analysis on dropped ride requests, miles driven per trip, and drivers on the road per day should be performed.
+
+
